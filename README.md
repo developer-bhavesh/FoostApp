@@ -3,8 +3,8 @@ FoostApp is the official iOS application for Foostel, a food delivery service ta
 
 # Features
 
-    - User-Friendly Interface: Intuitive design for seamless navigation and ordering.
-    - Customizable Orders: Add or remove ingredients to suit your preferences.
-    - Real-Time Tracking: Track your order's preparation and delivery in real-time.
-    - Multiple Payment Options: Support for cards, wallets, and cash on delivery.
-    - Hostel-Centric Services: Exclusive discounts and meal plans designed for hostel residents.
+    -User-Friendly Interface: Intuitive design for seamless navigation and ordering.
+    -Customizable Orders: Add or remove ingredients to suit your preferences.
+    -Real-Time Tracking: Track your order's preparation and delivery in real-time.
+    -Multiple Payment Options: Support for cards, wallets, and cash on delivery.
+    -Hostel-Centric Services: Exclusive discounts and meal plans designed for hostel residents.
